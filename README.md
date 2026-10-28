@@ -157,6 +157,11 @@ To install a mod, put the mod folder in `mods\`. Remove the folder to uninstall 
 
 If you are newer to the game, I very strongly recommend the [Key Quest Markers](https://gamebanana.com/mods/727960) mod by PurplefinNeptuna. This marks out the Village and Hub quests you need to complete for the next tier directly in the quest menu, which means you no longer need a wiki to play the damn game.
 
+[Deviant Base Music](https://github.com/SDShepard/mhgurecomp-deviant-music) is an optional Forge plugin that
+gives ordinary Deviants their base monsters' music-selection rules while preserving Bloodbath Diablos's two
+themes and phase switching. [Precompiled downloads](https://github.com/SDShepard/mhgurecomp-deviant-music/releases/latest)
+and source are available. Offline-tested against MHGURecomp 0.10.1; in-game listening validation is still pending.
+
 ### Cheats
 
 Put `.txt` files with cheat codes in `cheats\`. Every cheat in them is on from the start. Codes made for Ryujinx or a
